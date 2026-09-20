@@ -4,10 +4,10 @@
 
 A structured collection of handwritten Java learning notes designed to help students, developers, and job seekers master Java programming through organized visual study materials.
 
-![GitHub Repo stars](https://img.shields.io/github/stars/shaikbasha-dev/Java-Handwritten-Learning-Notes?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/shaikbasha-dev/Java-Handwritten-Learning-Notes?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/shaikbasha-dev/Java-Handwritten-Learning-Notes?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/shaikbasha-dev/Java-Handwritten-Learning-Notes?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/smbashadev/Java-Handwritten-Learning-Notes?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/smbashadev/Java-Handwritten-Learning-Notes?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/smbashadev/Java-Handwritten-Learning-Notes?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/smbashadev/Java-Handwritten-Learning-Notes?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 </div>
@@ -248,7 +248,7 @@ Your support is greatly appreciated and motivates me to continue creating high-q
 
 If you find this repository useful, feel free to connect and explore more educational repositories.
 
-- GitHub: **https://github.com/shaikbasha-dev**
+- GitHub: **https://github.com/smbashadev**
 
 ---
 
